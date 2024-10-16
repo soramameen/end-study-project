@@ -1,7 +1,6 @@
 
 import './App.css'
-import Axios from './conponent/Axios.jsx'
-// import Post from './conponent/Post.jsx'
+import Axios from './component/Axios.jsx'
 const App=()=>{
   return(
     <>
